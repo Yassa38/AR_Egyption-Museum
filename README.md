@@ -98,11 +98,9 @@ Interact with content in real-time
 
 ## 👥 Team
 
-* Kyrillos Elia
-* Abram Anwer
-* Farah Mohammed
-* Mariem Hamdy
-* Demiana Morice
+Yassa Anwer Fathy 
+Kerolos Essmat 
+Marty Merzik
 
 ---
 ## ⭐ Future Improvements
